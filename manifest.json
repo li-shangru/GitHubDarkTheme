@@ -1,0 +1,38 @@
+{
+  "name": "GitHub Dark Theme",
+  "version": "1.0",
+  "description": "A dark theme that matches the GitHub default dark theme.",
+  "manifest_version" : 3,
+  "icons": {
+      "16": "images/icon16.png",
+      "48": "images/icon48.png",
+      "128": "images/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [13, 17, 23],
+      "frame_inactive": [22, 27, 34],
+      "frame_incognito": [12, 17, 24],
+      "frame_incognito_inactive": [13, 17, 23],
+      "background_tab": [13, 17, 23],
+      "background_tab_inactive": [22, 27, 34],
+      "background_tab_incognito": [12, 17, 24],
+      "background_tab_incognito_inactive": [13, 17, 23],
+      "bookmark_text": [200, 208, 216],
+      "button_background": [13, 17, 23],
+      "tab_background_text": [223, 223, 223],
+      "tab_background_text_inactive": [170, 170, 170],
+      "tab_background_text_incognito": [200, 208, 216],
+      "tab_background_text_incognito_inactive": [170, 170, 170],
+      "tab_text": [200, 208, 216],
+      "toolbar": [22, 27, 34],
+      "toolbar_button_icon": [222, 255, 255],
+      "omnibox_text": [200, 208, 216],
+      "omnibox_background": [22, 27, 34],
+      "ntp_background": [22, 27, 34],
+      "ntp_header": [235, 235, 235],
+      "ntp_link": [249, 186, 82],
+      "ntp_text": [200, 208, 216]
+    }
+  }
+}
